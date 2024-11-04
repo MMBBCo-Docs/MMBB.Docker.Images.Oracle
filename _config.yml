@@ -21,7 +21,7 @@ baseurl: '/MMBB.Docker.Images.Oracle'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Name
+  name: MMBB
   url: http://localhost:4000
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
@@ -34,10 +34,16 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Example Page
-  url: example_page/
+- text: Installazione
+  url: installazione/
   internal: true
-- text: DOCter Repo
+- text: Generazione
+  url: generazione/
+  internal: true
+- text: Struttura
+  url: struttura/
+  internal: true
+- text: Repository
   url: https://github.com/MMBBCo-Docs/MMBB.Docker.Images.Oracle
   internal: false
 
