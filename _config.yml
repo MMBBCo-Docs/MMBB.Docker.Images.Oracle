@@ -44,7 +44,7 @@ navigation:
   url: struttura/
   internal: true
 - text: Repository
-  url: https://github.com/MMBBCo-Docs/MMBB.Docker.Images.Oracle
+  url: https://github.com/MMBBCo-Development-Internal/MMBB.Docker.Images.Oracle
   internal: false
 
 # Repo list
